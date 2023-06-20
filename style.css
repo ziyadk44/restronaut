@@ -43,7 +43,7 @@ body {
 }
 
 .footer {
-    background: url('/asset/Background-banner.jpg');
+    background: URL('Background-banner.jpg');
 }
 
 .footer-text {
