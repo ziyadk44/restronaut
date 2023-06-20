@@ -1,0 +1,96 @@
+#searchBtn {
+    border: 0px;
+}
+
+#searchField {
+    width: 100px;
+    margin-left: 5px;
+}
+
+.navbar {
+    padding: 0px 70px 0px 70px;
+    background-color: black;
+}
+
+body {
+    background-color: rgb(24, 58, 129);
+    /* background: url('/asset/bg.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+}
+
+.heading {
+    font-family: 'Barlow', sans-serif;
+    font-size: 80px;
+}
+
+.span {
+    font-family: 'Sacramento', cursive;
+}
+
+.firstSection {
+    margin-top: 50px;
+}
+
+.yellow {
+    height: 30px;
+}
+
+.yellow-text {
+    font-size: 10px;
+}
+
+.footer {
+    background: url('/asset/Background-banner.jpg');
+}
+
+.footer-text {
+    padding-bottom: 5px;
+}
+
+.about {
+    margin: 100px 0px 20px 0px;
+}
+
+.labelBtn {
+    margin-left: 75px;
+}
+
+.carousel {
+    padding: 0px;
+}
+
+
+
+.Slider-input {
+    border-radius: 100px;
+    border: 0px;
+    height: 50px;
+    width: 220px;
+    padding: 13px;
+}
+
+.aboutInfo{
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: 600;
+}
+#aboutInfo2{
+    font-weight: bold;
+    font-size: 25px;
+}
+.btnAbout{
+    margin-top: 30px;
+    background-color: #034963;
+}
+.categories{
+    margin-top: 110px;
+}
+.catHeading{
+    margin-bottom: 50px;
+}
+.services{
+    margin-bottom: 40px;
+}
